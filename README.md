@@ -2,9 +2,9 @@
 
 I am javascript passionate who believes that any task can be solved if enough time is spent on it. In the future, I would like to create my own game.
 
-🌱 I’m currently learning NestJS and MySQL.
+:closed_book: I’m currently learning NestJS and MySQL.
 
-⚡ Fun fact: I am singing rap music :notes: 
+:information_source: Fun fact: I am singing rap music :notes: 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Patrex97"/>
 <!--
