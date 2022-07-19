@@ -24,13 +24,13 @@ I am javascript passionate who believes that any task can be solved if enough ti
         </tr>
         <tr valign="center">
             <td width="80px" align="center">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+            </td>
+            <td width="80px" align="center">
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
             </td>
             <td width="80px" align="center">
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-            </td>
-            <td width="80px" align="center">
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg">
+             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
             <td width="80px" align="center">
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-original.svg">
             </td>
