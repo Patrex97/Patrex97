@@ -1,7 +1,7 @@
 ### Hi there my name is Patryk👋
 
-- 🌱 I’m currently learning NestJS and MySQL.
-- ⚡ Fun fact: I am singing rap music :notes: 
+🌱 I’m currently learning NestJS and MySQL.
+⚡ Fun fact: I am singing rap music :notes: 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Patrex97"/>
 <!--
