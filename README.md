@@ -1,6 +1,6 @@
 ### Hi there my name is Patryk👋
 
-<p style="width: 60%;">I am javascript passionate who believes that any task can be solved if enough time is spent on it. In the future, I would like to create my own game.</p>
+<p style="width: 500px;">I am javascript passionate who believes that any task can be solved if enough time is spent on it. In the future, I would like to create my own game.</p>
 
 :closed_book: I’m currently learning NestJS and MySQL.
 
